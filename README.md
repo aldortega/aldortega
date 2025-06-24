@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aldo</h1>
-- 🌱 I’m currently learning 𝗥𝗲𝗮𝗰𝘁, 𝗡𝗼𝗱𝗲𝗝𝗦 𝗮𝗻𝗱 𝗠𝗼𝗻𝗴𝗼𝗗𝗕
+- 🌱 I’m currently learning **React, NodeJS and MongoDB**
 
 - 📫 How to reach me **aldoortega1234@gmail.com**
 
