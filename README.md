@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aldo</h1>
- •  🌱 I’m currently learning 𝗩𝘂𝗲, 𝗥𝗲𝗮𝗰𝘁 𝗮𝗻𝗱 𝗠𝗼𝗻𝗴𝗼𝗗𝗕
+ • 🌱 I’m currently learning 𝗩𝘂𝗲, 𝗥𝗲𝗮𝗰𝘁 𝗮𝗻𝗱 𝗠𝗼𝗻𝗴𝗼𝗗𝗕
 
-- 📫 How to reach me **aldoortega1234@gmail.com**
+ • 📫 How to reach me **aldoortega1234@gmail.com**
 
-- ⚡ Fun fact **I love cars 🚗🏎️**
+ • ⚡ Fun fact **I love cars 🚗🏎️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
