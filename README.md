@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aldo</h1>
-- 🌱 I’m currently learning 𝗩𝘂𝗲, 𝗥𝗲𝗮𝗰𝘁 𝗮𝗻𝗱 **LangGraph**
+- 🌱 I’m currently learning 𝗩𝘂𝗲, 𝗥𝗲𝗮𝗰𝘁 𝗮𝗻𝗱 𝗟𝗮𝗻𝗴𝗚𝗿𝗮𝗽𝗵
 
 - 📫 How to reach me **aldoortega1234@gmail.com**
 
